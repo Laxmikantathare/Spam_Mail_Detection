@@ -1,0 +1,50 @@
+
+*{
+   font-family: 'Sen', sans-serif;
+    font-size: 19px;
+}
+.navbarr{
+    background-color: #e0e0e0;
+    padding: 10px 1px 4px;
+    }
+h5{
+    font-size: 1.27rem;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+}
+.form-control {
+    display: block;
+    width: 80%;
+    border: 3px solid #0dcaf0;
+}
+.btn{
+    box-shadow:  0px 2px 6px 2px rgba(0,0,0,.18);
+    font-weight: 600;
+    color: black;
+}
+.footer{
+    background-color:#e0e0e0;
+    position: absolute;
+    bottom: 0;
+}
+.icon1:hover{
+    transform: scale(1.2);
+    }
+.icon2:hover{
+    transform: scale(1.2);
+    }
+.icon3:hover{
+    transform: scale(1.2);
+    }
+.icon1{
+        color: black;
+        }
+.icon2{
+        color: black;
+        }
+.icon3{
+        color: black;
+        }
+

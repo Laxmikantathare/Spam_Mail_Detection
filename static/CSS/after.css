@@ -1,0 +1,52 @@
+*{
+    font-family: 'Sen', sans-serif;
+     font-size: 19px;
+ }
+#container {
+    height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+      }
+   
+.circle {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    opacity: 0;
+    animation: scaleIn 4s infinite cubic-bezier(.36, .11, .89, .32);
+  }
+.no{
+    background-color: rgb(68, 187, 34);
+  }
+.yes{
+      background-color: red;
+  }
+.item {
+      z-index: 100;
+      padding: 5px;
+    }
+   
+.item img {
+        width: 150px;
+}
+  
+@keyframes scaleIn {
+    from {
+      transform: scale(.5, .5);
+      opacity: .5;
+    }
+    to {
+      transform: scale(2.5, 2.5);
+      opacity: 0;
+    }
+  }
+mark{
+    background-color: rgba(255, 255, 0, 0.621);
+}
+a{
+    text-decoration: none;
+
+}
