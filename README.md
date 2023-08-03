@@ -1,7 +1,7 @@
 ﻿# Spam Mail Detection Website ❤️
 ## Description 😀
 
-1. The Website will tell the message entered is spam or ham.
+1. The Website will tell you the message entered is spam or ham.
 2. This website is built using the Flask web framework.
 5. Used RandomForestClassifier Machine Learning algorithm for model building which gives 97.30% accuracy.
 
@@ -16,4 +16,4 @@
 2. UI: Flask, Bootstrap
 
 ## Video 🚀
-
+https://github.com/Laxmikantathare/Spam_Mail_Detection/blob/main/spam%20mail.mp4
