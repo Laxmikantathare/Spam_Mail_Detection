@@ -16,4 +16,6 @@
 2. UI: Flask, Bootstrap
 
 ## Video 🚀
-https://github.com/Laxmikantathare/Spam_Mail_Detection/blob/main/spam%20mail.mp4
+https://github.com/Laxmikantathare/Spam_Mail_Detection/assets/113975228/05152a0a-c789-4600-be8e-adeb23d7cdc1
+
+
