@@ -6,7 +6,7 @@ import re
 
 app = Flask(__name__)
 
-A = pd.read_csv("F:\\web D\\Spam Mail\\mail_data.csv")
+A = pd.read_csv('mail_data.csv')
 
 A = A.dropna(subset=['Message']).reset_index(drop=True)
 
