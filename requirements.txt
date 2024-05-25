@@ -2,4 +2,4 @@ gunicorn
 pandas
 joblib
 flask
-Sklearn
+scikit-learn
